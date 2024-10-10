@@ -1,3 +1,0 @@
-/home/stoigniew/projects/start/Milczarski/introduction/program/cmake-build-debug/CMakeFiles/Program.dir
-/home/stoigniew/projects/start/Milczarski/introduction/program/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/stoigniew/projects/start/Milczarski/introduction/program/cmake-build-debug/CMakeFiles/rebuild_cache.dir
