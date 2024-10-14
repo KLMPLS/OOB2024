@@ -1,0 +1,11 @@
+/home/stoigniew/projects/Milczarski/introduction/build/CMakeFiles/test.dir
+/home/stoigniew/projects/Milczarski/introduction/build/CMakeFiles/edit_cache.dir
+/home/stoigniew/projects/Milczarski/introduction/build/CMakeFiles/rebuild_cache.dir
+/home/stoigniew/projects/Milczarski/introduction/build/program/CMakeFiles/Program.dir
+/home/stoigniew/projects/Milczarski/introduction/build/program/CMakeFiles/test.dir
+/home/stoigniew/projects/Milczarski/introduction/build/program/CMakeFiles/edit_cache.dir
+/home/stoigniew/projects/Milczarski/introduction/build/program/CMakeFiles/rebuild_cache.dir
+/home/stoigniew/projects/Milczarski/introduction/build/library/CMakeFiles/MathLibrary.dir
+/home/stoigniew/projects/Milczarski/introduction/build/library/CMakeFiles/test.dir
+/home/stoigniew/projects/Milczarski/introduction/build/library/CMakeFiles/edit_cache.dir
+/home/stoigniew/projects/Milczarski/introduction/build/library/CMakeFiles/rebuild_cache.dir
